@@ -3,3 +3,6 @@
 *.vscode
 *.csv
 *.db
+*.html
+*.pdf
+*.tex
